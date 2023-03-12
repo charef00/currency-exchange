@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">spinner-currency_0</string>
+    <string name="btn">Afficher</string>
+    <string name="currency">application de conversion de devises</string>
+    <string name="amount">Montant</string>
+    <string name="from">de</string>
+    <string name="to">à</string>
+    <string name="calculate">Calculer</string>
+</resources>
